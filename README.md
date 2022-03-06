@@ -7,6 +7,6 @@
     git clone https://github.com/RNando1337/bomb_sms.git;
     cd ./bomb_sms;
     
- # How To Run 
+ ## How To Run 
  
     php bomb_otp.php
