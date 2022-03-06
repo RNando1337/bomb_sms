@@ -8,4 +8,4 @@
     
  # How To Run 
  
-    php bomb_sms.php
+    php bomb_otp.php
