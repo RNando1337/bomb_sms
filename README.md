@@ -2,7 +2,7 @@
 
 ## Intruksi untuk instalasi ##
 
-    git clone git@github.com:adamcw/autotune.git;
+    git clone https://github.com/RNando1337/bomb_sms.git;
     cd ./bomb_sms;
     make install;
     
