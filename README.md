@@ -1,4 +1,6 @@
-# BOMB SMS![Screenshot_10](https://user-images.githubusercontent.com/60562868/156910288-bfd8dad2-0d20-40a3-b4b5-d47e5ed5924a.png)
+# BOMB SMS
+![Screenshot_11](https://user-images.githubusercontent.com/60562868/156913176-063c993a-ef1b-412b-aa56-e4f2aa6da8a7.png)
+
 
 ## Intruksi untuk instalasi ##
 
