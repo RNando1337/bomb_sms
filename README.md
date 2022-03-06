@@ -4,7 +4,6 @@
 
     git clone https://github.com/RNando1337/bomb_sms.git;
     cd ./bomb_sms;
-    make install;
     
  # How To Run 
  
